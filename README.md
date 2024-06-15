@@ -5,10 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkeshri" alt="dkeshri" /></a> </p>
 
+- 📫 How to reach me **dkeshridev@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dkeshri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dkeshri" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gareeb developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gareeb developer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dkeshri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dkeshri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
